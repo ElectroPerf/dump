@@ -1,0 +1,4 @@
+vendor.aospa.biometrics.fingerprint.inscreen::IFingerprintInscreen    u:object_r:vendor_fod_hwservice:s0
+vendor.aospa.power::IPowerFeature                                     u:object_r:hal_power_hwservice:s0
+vendor.qti.hardware.systemhelper::ISystemResource         u:object_r:vendor_hal_systemhelper_hwservice:s0
+vendor.qti.hardware.systemhelper::ISystemEvent            u:object_r:vendor_hal_systemhelper_hwservice:s0
